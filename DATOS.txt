@@ -1,0 +1,46 @@
+
+Para logearse como admin vee todo lo de los empleados
+Usuario: ADMIN
+contraseña: ADMIN
+
+Para pasajero
+Usuario: pepe1
+contraseña: 1234
+
+Usuario: jose1
+contraseña: 123
+
+Usuario: VictorJose
+contraseña: 12345
+
+Usuario: JuanPedro
+contraseña: 12345
+
+
+Supervisor de boletos
+Usuario: empleadoSimon
+contraseña: 1234
+
+Usuario: empleadoJesus
+contraseña: 12345
+
+Seguridad de vias y viajes
+Usuario: empleadoMartin
+contraseña: 12345
+
+Usuario: empleadoGerardo
+contraseña: 12345
+
+Maquinista
+Usuario: empleadoIan
+contraseña: 12345
+
+Usuario: empleadoGaizka
+contraseña: 12345
+
+Encargado boleteria
+Usuario: empleadoIan
+contraseña: 12345
+
+Usuario: empleadoJon
+contraseña: 12345
